@@ -1,0 +1,36 @@
+12-08 11:03:27.516 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: instantiateItem: position=0
+12-08 11:03:27.516 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: instantiateItem: position=1
+
+
+12-08 11:03:33.506 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: run: 跳转到1
+12-08 11:03:33.506 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: instantiateItem: position=2
+
+
+12-08 11:03:39.516 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: run: 跳转到2
+12-08 11:03:39.516 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: destroyItem: position=0
+12-08 11:03:39.516 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: instantiateItem: position=3
+
+
+12-08 11:03:45.516 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: run: 跳转到3
+12-08 11:03:45.516 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: destroyItem: position=1
+12-08 11:03:45.516 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: instantiateItem: position=4
+
+
+12-08 11:03:51.536 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: run: 跳转到4
+12-08 11:03:51.536 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: destroyItem: position=2
+12-08 11:03:51.536 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: instantiateItem: position=5
+
+
+12-08 11:03:57.536 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: run: 跳转到5
+12-08 11:03:57.536 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: destroyItem: position=3
+
+
+12-08 11:04:03.536 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: run: 跳转到0
+12-08 11:04:03.536 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: instantiateItem: position=0
+12-08 11:04:03.536 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: instantiateItem: position=1
+12-08 11:04:04.176 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: destroyItem: position=4
+12-08 11:04:04.186 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: destroyItem: position=5
+
+
+12-08 11:04:09.546 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: run: 跳转到1
+12-08 11:04:09.546 4449-4449/com.itchunyang.viewpager I/SimplePagerActivity: instantiateItem: position=2
